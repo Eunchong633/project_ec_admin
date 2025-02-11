@@ -185,6 +185,9 @@ h6 {
   background-color: #cfe2ff;
   border-color: #cfe2ff;
 }
+.datatable-top{
+  display: none;
+}
 
 .bg-secondary-light {
   background-color: #e2e3e5;
