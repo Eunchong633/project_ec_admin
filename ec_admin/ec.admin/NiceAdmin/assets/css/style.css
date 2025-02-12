@@ -188,6 +188,14 @@ h6 {
 .datatable-top{
   display: none;
 }
+.datatable-info {
+  display: none;
+}
+.datatable-paginate {
+  display: flex !important;
+  justify-content: center !important;
+}
+
 
 .bg-secondary-light {
   background-color: #e2e3e5;
